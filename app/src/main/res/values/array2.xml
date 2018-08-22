@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sP2">
+        <item>Euro</item>
+        <item>Dolar</item>
+        <item>Libra esterlina</item>
+        <item>Peso Colombiano</item>
+        <item>Yen</item>
+    </string-array>
+</resources>
